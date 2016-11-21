@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+button {
+	padding: 15px 15px 15px 15px;
+	background: linear-gradient(#045FB4, #0040FF);
+	border-radius: 20px;
+	margin-bottom: 0;
+	margin-top: 70px;
+	margin-left: 20px;
+	color: #1C1C1C;
+	font-size: 20px;
+	color: #1C1C1C;
+	cursor: pointer;
+
+}
+button:hover {
+	opacity: 1;
+	background-color: #58D3F7;
+	color: white;
+
+}
+button:active {
+transform: scale(0.95);
+}
+a:link   
+{   
+ text-decoration:none;
+   
+}   
+
