@@ -12,12 +12,8 @@
     </description>
 
     <author href="http://phonegap.com/blog/" email="danielito@hotmail.com">
-        Carlos Cortez
+        Carlos Cortes
     </author>
-
-    <preference name="phonegap-version" value="2.2.0" />
-    <preference name="webviewbounce" value="false" />
-
     <icon src="img/logoz.png" />
     <gap:splash src="img/logoz.png" />
 </widget>
